@@ -1,2 +1,1 @@
-# datacamp-ds-09-python-toolbox
-Iterators, list comprehensions and generators
+# Chapter 9. Python toolbox
